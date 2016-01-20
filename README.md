@@ -7,8 +7,8 @@ google-slides
 
 ## Install
 
-`npm install`
-`bower update`
+`npm install`  
+`bower update`  
 
 ## Fork
 
